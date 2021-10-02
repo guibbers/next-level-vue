@@ -14,7 +14,7 @@
 <script>
 export default {
   props: {
-    event: {},
+    event: Object,
   },
 }
 </script>
