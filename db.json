@@ -44,6 +44,20 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 675954,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Jovens Gênios",
+      "description": "A maior ed tech de todos os tempos",
+      "location": "Escritório",
+      "date": "2021-10-04T03:26:00.000Z",
+      "time": "9:00",
+      "attendees": []
     }
   ]
 }
