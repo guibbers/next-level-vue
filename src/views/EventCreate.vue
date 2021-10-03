@@ -77,9 +77,7 @@ export default {
           })
           this.event = this.createFreshEventObject()
         })
-        .catch((err) => {
-          console.error(err)
-        })
+        .catch(() => {})
     },
     createFreshEventObject() {
       const user = this.$store.state.user.user
