@@ -10,7 +10,7 @@
       >
     </template>
 
-    <template v-if="hasNextPage"> | </template>
+    <template v-if="hasNextPage"> | </template> |
 
     <template v-if="this.event.totalEvents > this.page * 3">
       <router-link
